@@ -5,9 +5,9 @@ Vref = 999
 
 k = 1.1547
 
-a = 2
+a = 14
 
-encoderTicksPerHalfRev = 48
+encoderTicksPerHalfRev = 24
 
 dots = encoderTicksPerHalfRev*a
 
